@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-I wrote this game to test a recursive search algorithem as a simple AI technic.
+I wrote this game to test a recursive search algorithem (Minimax) as a simple AI technic.
 
 To play the game use the number keys 
 I recomend to use the numeric keys section on the keyboard with Num Lock on.
